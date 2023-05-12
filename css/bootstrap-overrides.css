@@ -1,0 +1,7 @@
+.bg-body-tertiary {
+    background-color: #0de80d!important;
+}
+
+.carousel-control-next-icon {
+    background-image: url(../img/banana.svg);
+}
